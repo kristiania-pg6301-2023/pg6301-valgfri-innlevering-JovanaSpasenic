@@ -4,3 +4,5 @@
 HERKOU 
 
 https://studentdatabase-app-to-heroku-3b5ae4d7fa60.herokuapp.com/
+
+Nye: https://react-app-to-herokuu-395e0ffe2da0.herokuapp.com
