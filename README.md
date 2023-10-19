@@ -1,8 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/9O-uluRb)
 
 
-HERKOU 
+HEROKU
 
-https://studentdatabase-app-to-heroku-3b5ae4d7fa60.herokuapp.com/
+MADE BY JOVANA SPASENIC & JOHAN SVENDEN
 
 Nye: https://react-app-to-herokuu-395e0ffe2da0.herokuapp.com
