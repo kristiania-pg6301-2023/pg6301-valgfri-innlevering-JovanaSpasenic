@@ -1,0 +1,7 @@
+/client/node_modules/
+/client/.parcel-cache/
+/client/dist/
+/.idea/
+/server/node_modules/
+/node_modules/
+/server/.env
